@@ -1,0 +1,10 @@
+:HL["/manolin-home/_next/static/chunks/2bqljzdjse30m.css","style"]
+:HL["/manolin-home/_next/static/chunks/2xzwm8yyyesn4.css","style"]
+:HL["/manolin-home/_next/static/chunks/43p3zgv4-htj1.css","style"]
+:HC["/",""]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":"home","h":96,"c":"$Q5"}]]
+3:[["children",{"s":"(app)","h":96,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"entry","t":"d","k":"7H35K9Y4S6","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"customer","t":"d","k":"M4T829","s":[]},"h":196704,"c":"$Q2"}]]
+0:{"b":"NweM8i4LcofsKfToXNOJx","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

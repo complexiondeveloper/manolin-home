@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:"/manolin-home/_next/static/chunks/449829ha2a_pn.js"
+3:I[4421,["$2"],"StoreHydrator"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:I[6799,["$2"],"Toaster"]
+c:"$Sreact.suspense"
+d:"/manolin-home/_next/static/chunks/1ww8dj37prjcn.js"
+e:"/manolin-home/_next/static/chunks/2_0-p7dy8idko.js"
+f:"/manolin-home/_next/static/chunks/2qvy4-vy0b08s.js"
+10:"/manolin-home/_next/static/chunks/2q9asm5y_zil2.js"
+11:I[59764,["$2","$d","$e","$f","$10"],"AppShell"]
+15:"/manolin-home/_next/static/chunks/2nedb3_mjhlk0.js"
+16:I[16997,["$2","$d","$e","$f","$10","$15"],"HomeScreen"]
+17:I[97367,["$2"],"OutletBoundary"]
+19:"ViewportBoundary"
+1a:I[97367,["$2"],"$19"]
+1c:"MetadataBoundary"
+1d:I[97367,["$2"],"$1c"]
+1f:I[68027,["$2"],"default",1]
+:HL["/manolin-home/_next/static/chunks/2bqljzdjse30m.css","style"]
+:HL["/manolin-home/_next/static/chunks/2xzwm8yyyesn4.css","style"]
+:HL["/manolin-home/_next/static/chunks/43p3zgv4-htj1.css","style"]
+:HC["/",""]
+13:X
+14:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L16",null,{}],[["$","script","script-0",{"src":"/manolin-home/_next/static/chunks/2nedb3_mjhlk0.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":false,"v":null}}]]
+12:[["children",{"s":"home","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$13"},"c":"$Q14"}]]
+b:[["children",{"s":"(app)","h":512,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/manolin-home/_next/static/chunks/2q9asm5y_zil2.js","async":true,"nonce":"$undefined"}]],["$","$c",null,{"fallback":["$","div",null,{"className":"flex-1 bg-bg"}],"children":["$","$L11",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Q12"}]]
+9:[["children",{"s":{"n":"entry","t":"d","k":"7H35K9Y4S6","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/manolin-home/_next/static/chunks/2_0-p7dy8idko.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/manolin-home/_next/static/chunks/2qvy4-vy0b08s.js","async":true,"nonce":"$undefined"}]],"$La"]}],"p":false,"v":null},"c":"$Qb"}]]
+7:[["children",{"s":{"n":"customer","t":"d","k":"M4T829","s":[]},"h":197120,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/manolin-home/_next/static/chunks/1ww8dj37prjcn.js","async":true,"nonce":"$undefined"}]],"$L8"]}],"p":false,"v":null},"c":"$Q9"}]]
+0:{"P":null,"c":["","M4T829","7H35K9Y4S6","home",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/manolin-home/_next/static/chunks/2bqljzdjse30m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/manolin-home/_next/static/chunks/2xzwm8yyyesn4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/manolin-home/_next/static/chunks/43p3zgv4-htj1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/manolin-home/_next/static/chunks/449829ha2a_pn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"h-full antialiased","children":["$","body",null,{"className":"flex min-h-full flex-col","children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"style":{"display":"grid","placeItems":"center","minHeight":"70vh","padding":24,"textAlign":"center","fontFamily":"Pretendard Variable, sans-serif"},"children":["$","div",null,{"children":[["$","p",null,{"style":{"fontSize":17,"fontWeight":600},"children":"쇼케이스에서는 홈 화면만 볼 수 있어요"}],["$","a",null,{"href":"/manolin-home/M4T829/7H35K9Y4S6/home/","style":{"display":"inline-block","marginTop":16,"padding":"10px 20px","borderRadius":999,"background":"#e10000","color":"#fff","fontWeight":600,"textDecoration":"none"},"children":"홈으로"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}]]}]}]]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":"$L1e"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1f",[["$","link","0",{"rel":"stylesheet","href":"/manolin-home/_next/static/chunks/2bqljzdjse30m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/manolin-home/_next/static/chunks/2xzwm8yyyesn4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/manolin-home/_next/static/chunks/43p3zgv4-htj1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"NweM8i4LcofsKfToXNOJx"}
+20:I[30955,["$2","$d"],"ShowcaseGuard"]
+13:C
+8:["$","div",null,{"className":"flex flex-1 flex-col","style":{"--brand":"#e10000"},"children":[["$","$L20",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#f4f4f6"}]]
+21:I[27201,["$2"],"IconMark"]
+18:null
+1e:[["$","title","0",{"children":"manolin. — 헬스케어 솔루션 데모"}],["$","meta","1",{"name":"description","content":"Manolin B2B UI 스토리보드 v0.6 기반 반응형 데모 (사용자 · 관리자 · 운영자)"}],["$","meta","2",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","3",{"name":"apple-mobile-web-app-title","content":"manolin"}],["$","meta","4",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","5",{"rel":"icon","href":"/manolin-home/icon.png?icon.0gkht8h52i6l9.png","sizes":"512x512","type":"image/png"}],["$","link","6",{"rel":"apple-touch-icon","href":"/manolin-home/apple-icon.png?apple-icon.20oiyi9vwdtky.png","sizes":"180x180","type":"image/png"}],["$","$L21","7",{}]]
